@@ -19,7 +19,7 @@
           <div class="container">
               <div class="row d-flex justify-content-center">
 
-                  <div class="col-lg-4 col-md-6 footer-contact">
+                  {{-- <div class="col-lg-4 col-md-6 footer-contact">
                       <h3>Neobranding Venezuela</h3>
                       <p>
                           Ciudad Guayana <br>
@@ -29,7 +29,7 @@
                           <strong>Email:</strong> <a href="mailto:info@neobranding.com.ve">
                               info@neobranding.com.ve</a><br>
                       </p>
-                  </div>
+                  </div> --}}
                     {{-- <div class="col-lg-2 col-md-6 footer-contact">
                     </div> --}}
                   <div class="col-lg-4 col-md-6 footer-contact">
