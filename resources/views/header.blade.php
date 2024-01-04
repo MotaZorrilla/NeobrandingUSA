@@ -35,7 +35,7 @@
           </li>  --}}
           <li><a class="nav-link scrollto" href="#faq">Preguntas</a></li>
           <li><a class="getstarted scrollto" href="#contact" 
-            onclick="window.location.href='https://wa.me/15103704083?text=Hola!%20Estoy%20interesado%20en%20información%20de%20sus%20se%20de%20marketing%20digital.'"
+            onclick="window.location.href='https://wa.me/15103704083?text=Hola!%20Estoy%20interesado%20en%20información%20de%20sus%20servicios%20de%20marketing%20digital.'"
             >Contactanos</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

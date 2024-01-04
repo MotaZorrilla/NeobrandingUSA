@@ -9,7 +9,7 @@
             </div>
             <div class="col-lg-3 cta-btn-container text-center">
               <a class="cta-btn align-middle" href="#contact" 
-              onclick="window.location.href='https://wa.me/15103704083?text=Hola!%20Estoy%20interesado%20en%20información%20de%20sus%20se%20de%20marketing%20digital.'">Contactanos</a>
+              onclick="window.location.href='https://wa.me/15103704083?text=Hola!%20Estoy%20interesado%20en%20información%20de%20sus%20servicios%20de%20marketing%20digital.'">Contactanos</a>
             </div>
           </div>
   

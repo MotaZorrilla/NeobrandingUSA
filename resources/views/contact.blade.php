@@ -28,7 +28,7 @@
 
                         <div class="phone">
                             <a
-                                onclick="window.location.href='https://wa.me/15103704083?text=Hola!%20Estoy%20interesado%20en%20información%20de%20sus%20se%20de%20marketing%20digital.'"><i
+                                onclick="window.location.href='https://wa.me/15103704083?text=Hola!%20Estoy%20interesado%20en%20información%20de%20sus%20servicios%20de%20marketing%20digital.'"><i
                                     class="bi bi-phone"></i>
                                 <h4>Escribenos:</h4>
                                 <p>+1 (510) 370-4083</p>
